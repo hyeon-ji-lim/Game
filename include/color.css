@@ -1,0 +1,7 @@
+section{background-color: paleturquoise;}
+h1{color: maroon;}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
